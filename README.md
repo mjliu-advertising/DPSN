@@ -7,5 +7,5 @@ tensorflow
 sklearn
 
 # 使用方法：
-本论文使用的IPinYou数据集来自make-ipinyou-data https://github.com/wnzhang/make-ipinyou-data，
+本论文使用的IPinYou数据集来自make-ipinyou-data https://github.com/Atomu2014/make-ipinyou-data 
 将对应广告主的train.txt、test.txt复制到data目录即可
